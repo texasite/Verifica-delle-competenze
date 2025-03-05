@@ -40,7 +40,7 @@ fetch("testo/corsi.txt")  // Assicurati che il percorso sia corretto
                                 for (let d = 1; d < filecont[corsoCont].split("\n")[c].split(" ").length; d++){
                                     domanda += (filecont[corsoCont].split("\n")[c].split(" ")[d] + ' ');
                                 }
-                                output+='<label><input type="radio" name="'+b+'" value="'+c+'"/><p>'+ domanda +
+                                output+='<input type="radio" id="'+c+'" name="'+b+'" value="'+c+'"/><label for="'+c+'"><p>'+ domanda +
                                          '</p></label><br>';
                             }
                             
@@ -117,7 +117,7 @@ fetch("testo/corsi.txt")  // Assicurati che il percorso sia corretto
                             }
 
                     if (filecont[corsoCont].split("\n")[selected[0].value].replace("(", "").replace(")", "").split(" ")[0].split("-")[0].includes("t")){
-                        output += '<div class="container"> <h1>' + filecont[corsoCont].split("\n")[b+1] + '</h1><br><p>'+ domanda + '</p><br><p style="color: green;">Corretto! +' + filecont[corsoCont].split("\n")[selected[0].value].replace("(", "").replace(")", "").split(" ")[0].split("-")[1] + ' punti</p></div>';
+                        output += '<div class="container"> <h1>' + filecont[corsoCont].split("\n")[b+1] + '</h1><br><div class="mag"><p>'+ domanda + '</p><br><p style="color: green;">Corretto! +' + filecont[corsoCont].split("\n")[selected[0].value].replace("(", "").replace(")", "").split(" ")[0].split("-")[1] + ' punti</p></div></div>';
                         punti += parseInt(filecont[corsoCont].split("\n")[selected[0].value].replace("(", "").replace(")", "").split(" ")[0].split("-")[1]);
                     } else {
                         let trovacorretta = document.querySelectorAll(`input[name='${b}']`);
@@ -133,15 +133,13 @@ fetch("testo/corsi.txt")  // Assicurati che il percorso sia corretto
                                 }
                             }
                         }
-                        output += '<div class="container"> <h1>' + filecont[corsoCont].split("\n")[b+1] + '</h1><br><p>'+ domanda + '</p><br><p style="color: red;">Sbagliato';
+                        output += '<div class="container"> <h1>' + filecont[corsoCont].split("\n")[b+1] + '</h1><br><div class="min"><p>Hai risposto sbagliato!: </p><br><p>'+ domanda + '</p><br>';
                         if(parseInt(filecont[corsoCont].split("\n")[selected[0].value].replace("(", "").replace(")", "").split(" ")[0].split("-")[1]) > 1){
                             output+=' -' + filecont[corsoCont].split("\n")[selected[0].value].replace("(", "").replace(")", "").split(" ")[0].split("-")[1] + ' punti!'
                         } else if (parseInt(filecont[corsoCont].split("\n")[selected[0].value].replace("(", "").replace(")", "").split(" ")[0].split("-")[1]) == 1){
                             output+=' -' + filecont[corsoCont].split("\n")[selected[0].value].replace("(", "").replace(")", "").split(" ")[0].split("-")[1] + ' punto!'
-                        } else {
-                            output+='!';
                         }
-                        output+='</p><br><p style="color: green;">La risposta corretta era:</p><br><p>'+ risposta +'</p></div>';
+                        output+='</div><br><div class="mag"><p>La risposta corretta era:</p><br><p>'+ risposta +'</p></div></div>';
                         punti -= parseInt(filecont[corsoCont].split("\n")[selected[0].value].replace("(", "").replace(")", "").split(" ")[0].split("-")[1]);
                     }
                           
@@ -160,7 +158,7 @@ fetch("testo/corsi.txt")  // Assicurati che il percorso sia corretto
                             }
                         }
 
-                    output += '<div class="container"> <h1>' + filecont[corsoCont].split("\n")[b+1] + '</h1><br><p> Non hai risposto </p><br><p style="color: green;">La risposta corretta era:</p><br><p>'+risposta+'</p></div>';
+                    output += '<div class="container"> <h1>' + filecont[corsoCont].split("\n")[b+1] + '</h1><br><div class="comp"><p> Non hai risposto </p></div><br><div class="mag"><p>La risposta corretta era:</p><br><p>'+risposta+'</p></div></div>';
 
                 }
                 
