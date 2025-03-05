@@ -248,8 +248,8 @@ fetch("testo/corsi.txt")  // Assicurati che il percorso sia corretto
                             
                         } else {
                             if(filecont[corsoCont].split("\n")[c].split(" ").length > 1){
-                                output+='<tr><a target="_blank" href="'+ filecont[corsoCont].split('\n')[c].split("(!-!)")[1].replace(" ", "") +'"><td>'+ filecont[corsoCont].split('\n')[c].split("(!-!)")[0]+'</td></a></tr>';
-
+                                output+='<tr><td><a target="_blank" href="'+ filecont[corsoCont].split('\n')[c].split("(!-!)")[1].replace(" ", "") +'">'+ filecont[corsoCont].split('\n')[c].split("(!-!)")[0]+'</a></td></tr>';
+                                //manda link
                             }
                             
                         }
