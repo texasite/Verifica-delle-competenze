@@ -473,10 +473,10 @@ calibrazione2.jpg
 (-immagini-)
 anabagliante.png
 
-(s-0-) Basta alzarlo
-(s-0-) Bisogna abbassarlo 
-(t-2-) Alzarlo e deviarlo a sinistra 
-(s-0-) Alzarlo e deviarlo a destra
+(t-2-) Bisogna alzarlo
+(s-0-) Bisogna abbassarlo 
+(s-0-) Deviarlo a sinistra 
+(s-0-) Deviarlo a destra
 
 (-domanda-singola-)
 10.	Per eseguire la regolazione sui fari Matrix di una Audi, cosa devo fare?
@@ -760,7 +760,7 @@ S8C: DIAGNOSI E MANUTENZIONE DEL CAMBIO A DOPPIA FRIZIONE 0B5 S-TRONIC (!-!) htt
 (s-0-) DeNOx
 
 (-domanda-singola-)
-10. Un liquido AdBlue con una concentrazione di urea del 32,5% è:
+10. Un liquido AdBlue con una concentrazione di ammoniaca del 32,5% è:
 (t-2-) Corretto
 (s-1-) Troppo diluito
 (s-1-) Troppo concentrato
