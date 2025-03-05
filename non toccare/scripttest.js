@@ -2,7 +2,9 @@ const btnConferma = document.getElementById('btnConferma');
 const outputDiv = document.getElementById('output');
 const btnFine = document.getElementById('btnInviotest');
 
-let output = "";
+let output = '<div class="container"><div class="attenzione"><h1>ATTENZIONE</h1></div>'+
+        '<p>Una sola risposta è giusta in ogni domanda. Alcune risposte errate comportano un voto negativo. Si consiglia quindi di non rispondere se non si è convinti.</p>'+
+    '</div>';
 
 fetch("testo/corsi.txt")  // Assicurati che il percorso sia corretto
   .then(response => response.text())
