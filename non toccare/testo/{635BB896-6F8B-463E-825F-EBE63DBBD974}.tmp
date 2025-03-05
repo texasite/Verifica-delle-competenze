@@ -17,9 +17,9 @@
 
 (-domanda-singola-)
 3. Nel misurare la resistenza di un componente elettrico, come un sensore di temperatura, a cosa bisogna prestare attenzione? 
-(s-0-) Utilizzare un tester di tensione e non un multimetro 
+(s-0-) Utilizzare un tester di tensione e </p><strong>non</strong><p> un multimetro 
 (s-1-) Misurare il componente collegato al cablaggio
-(t-1-) Misurare il componente quando non è alimentato
+(t-1-) Misurare il componente quando </p><strong>non</strong><p> è alimentato
 (s-0-) Nessuna delle precedenti azioni è corretta 
 
 (-domanda-singola-)
@@ -61,7 +61,7 @@ multimetro17.jpg
 (s-0-) 117,9 Ohm (la metà)
 (s-0-) 235,8 Ohm
 (t-2-) 471,6 Ohm (il doppio)
-(s-1-) Il valore non può essere calcolato, ma solo misurato
+(s-1-) Il valore </p><strong>non</strong><p> può essere calcolato, ma solo misurato
 
 (-domanda-singola-)
 8. Un aumento della resistenza in un circuito elettrico, come l’ossidazione di un connettore, provoca generalmente:
@@ -110,7 +110,7 @@ oscilloscopio.jpg
 (s-1-) Nessuna delle precedenti è corretta
 
 (-domanda-singola-)
-3. Quale fra i seguenti componenti non è necessariamente presente in un alternatore: 
+3. Quale fra i seguenti componenti </p><strong>non</strong><p> è necessariamente presente in un alternatore: 
 (s-1-) Statore 
 (s-1-) Rotore 
 (s-1-) Piastra Diodi 
@@ -124,7 +124,7 @@ segnale.png
 (s-0-) Circa 12 Volt
 (s-0-) Circa 6 Volt
 (t-1-) Più di 6 e meno di 12 Volt
-(s-0-) Il multimetro non misurerà più niente
+(s-0-) Il multimetro </p><strong>non</strong><p> misurerà più niente
 
 (-domanda-singola-)
 5. Osserva il seguente schema elettrico ed il segnale misurato con l’oscilloscopio sull’elettrovalvola nel pin C47. Il comando PWM è del:
@@ -277,7 +277,7 @@ segnalelamba.png
 (s-1-) Molto Magra
 (t-2-) Molto Ricca
 (s-2-) Stechiometrica
-(s-2-) Il valore in volt non indica il tasso di ossigeno 
+(s-2-) Il valore in volt </p><strong>non</strong><p> indica il tasso di ossigeno 
 
 (-valutazione-)
 (min-7-) 
@@ -317,7 +317,7 @@ motcorralternata.jpg
 (t-1-) Un motore pilotato in corrente alternata
 
 (-domanda-singola-)
-3. Quale componente NON è normalmente presente in un veicolo Full Hybrid di tipo FHEV:
+3. Quale componente </p><strong>non</strong><p> è normalmente presente in un veicolo Full Hybrid di tipo FHEV:
 (s-1-) L’alternatore
 (s-1-) Il motorino di avviamento
 (s-0-) Il connettore per la ricarica della batteria HV
@@ -342,7 +342,7 @@ connettorecaricadc.jpg
 (s-1-) Nessuna delle precedenti è corretta
 
 (-domanda-singola-)
-6. Quale caratteristica delle batterie ai polimeri di litio non è vera:
+6. Quale caratteristica delle batterie ai polimeri di litio </p><strong>non</strong><p> è vera:
 (s-0-) Hanno una tensione nominale della singola cella di 3,7 Volt
 (s-1-) Sono sensibili ad eventuali urti 
 (t-1-) Possono essere scaricate completamente senza riportare danni
@@ -368,10 +368,10 @@ macchinaricarica.jpg
 
 (-domanda-singola-)
 9. Indica quale affermazione è sbagliata (in assoluto)
-(s-1-) Con batteria 12 Volt scarica l’auto elettrica non può mai avviarsi
-(t-2-) Le auto elettriche non sono dotate di un cambio
+(s-1-) Con batteria 12 Volt scarica l’auto elettrica </p><strong>non</strong><p> può mai avviarsi
+(t-2-) Le auto elettriche </p><strong>non</strong><p> sono dotate di un cambio
 (s-1-) Nelle auto ibride le batterie HV possono essere raffreddate anche solo ad aria
-(s-0-) Non ci sono interventi di manutenzione ordinaria riguardanti il motore elettrico
+(s-0-) </p><strong>non</strong><p> ci sono interventi di manutenzione ordinaria riguardanti il motore elettrico
 
 (-domanda-singola-)
 10. La norma ISO adottata dai costruttori, specifica che la tensione diventa pericolosa a partire da:
@@ -414,7 +414,7 @@ S9C: SOCCORSO STRADALE, PROCEDURE DI SOCCORSO E MESSA IN SICUREZZA PER VEICOLI T
 2. Se l’interruttore di esclusione dell’airbag passeggero è su OFF (Airbag disattivati) e sul sedile è presente un passeggero che indossa le cinture di sicurezza: Gli airbag lato passeggero esplodono?
 
 (t-1-) No, mai
-(s-0-) Non esplodono a meno che non sia presente un sensore per rilevare la presenza dell’occupante
+(s-0-) </p><strong>non</strong><p> esplodono a meno che </p><strong>non</strong><p> sia presente un sensore per rilevare la presenza dell’occupante
 (s-1-) Sì sempre 
 (s-1-) Nessuna delle precedenti 
 
@@ -422,7 +422,7 @@ S9C: SOCCORSO STRADALE, PROCEDURE DI SOCCORSO E MESSA IN SICUREZZA PER VEICOLI T
 3. Dopo un incidente con attivazione degli airbag frontali, la centralina Airbag:
 (t-2-) Va sostituita e in alcuni casi riprogrammata
 (s-0-) Può essere anche solo riprogrammata
-(s-0-) Si cancellano gli errori e se scompaiono non si deve sostituire
+(s-0-) Si cancellano gli errori e se scompaiono </p><strong>non</strong><p> si deve sostituire
 (s-2-) Si può riprogrammare con strumenti di tuning
 
 (-domanda-singola-)
@@ -434,8 +434,8 @@ S9C: SOCCORSO STRADALE, PROCEDURE DI SOCCORSO E MESSA IN SICUREZZA PER VEICOLI T
 (s-1-) Tutti i precedenti
 
 (-domanda-singola-)
-5. Stiamo eseguendo una calibrazione telecamera frontale per l’assistenza alla guida. Al termine della calibrazione compare il risultato "CALIBRAZIONE NON ESEGUITA". Quali controlli non sono necessari?
-(s-1-) Controllare che il parabrezza non abbia graffi
+5. Stiamo eseguendo una calibrazione telecamera frontale per l’assistenza alla guida. Al termine della calibrazione compare il risultato "CALIBRAZIONE </p><strong>non</strong><p> ESEGUITA". Quali controlli </p><strong>non</strong><p> sono necessari?
+(s-1-) Controllare che il parabrezza </p><strong>non</strong><p> abbia graffi
 (s-1-) Verificare il corretto assetto del veicolo
 (s-1-) Verificare la presenza di una sufficiente quantità di illuminazione
 (t-1-) Controllare che la superficie del radar sia pulita Corretta
@@ -523,7 +523,7 @@ G7C: DIAGNOSI DEI SISTEMI DI SICUREZZA PASSIVA AIRBAG (!-!) https://www.texa.it/
 3. In una vettura dotata di ESC, dopo la sostituzione della batteria compare l’errore sensore angolo sterzo. Come prima operazione cosa è necessario fare?
 (s-0-) Si cancella l’errore e se resta attivo si sostituisce il componente.
 (t-1-) Si esegue la taratura del sensore di angolo sterzo.
-(s-0-) Si esegue un giro in strada fin quando la spia non si spegne
+(s-0-) Si esegue un giro in strada fin quando la spia </p><strong>non</strong><p> si spegne
 (s-1-) Si sostituisce il sensore di coppia dello sterzo
 
 (-domanda-singola-)
@@ -540,7 +540,7 @@ G7C: DIAGNOSI DEI SISTEMI DI SICUREZZA PASSIVA AIRBAG (!-!) https://www.texa.it/
 (t-1-) Entrambe le precedenti sono vere
 
 (-domanda-singola-)
-6. In una vettura recente (>2023), il freno di stazionamento è in avaria. Quali sono i componenti che NON possono causare il difetto. Quelli da escludere.
+6. In una vettura recente (>2023), il freno di stazionamento è in avaria. Quali sono i componenti che </p><strong>non</strong><p> possono causare il difetto. Quelli da escludere.
 (s-1-) Centralina Freno di Stazionamento
 (s-0-) Centralina ABS
 (s-1-) Motorino freno di stazionamento
@@ -549,7 +549,7 @@ G7C: DIAGNOSI DEI SISTEMI DI SICUREZZA PASSIVA AIRBAG (!-!) https://www.texa.it/
 (t-2-) Tutti i precedenti possono essere coinvolti 
 
 (-domanda-singola-)
-7. Quale componente di un tradizionale impianto frenante non è presente in un veicolo Ibrido o Elettrico? 
+7. Quale componente di un tradizionale impianto frenante </p><strong>non</strong><p> è presente in un veicolo Ibrido o Elettrico? 
 (s-0-) Gruppo ABS
 (s-1-) Sistema frenante a Tamburo
 (s-1-) Sensori giri ruote
@@ -570,9 +570,9 @@ regolazioni.png
 
 (-domanda-singola-)
 9. In un veicolo con sospensioni pneumatiche elettro attuate, a cosa devo prestare attenzione in officina?
-(s-0-) A non lasciare troppo tempo il veicolo spento, perché tenderebbero a scaricarsi
+(s-0-) A </p><strong>non</strong><p> lasciare troppo tempo il veicolo spento, perché tenderebbero a scaricarsi
 (s-0-) A ricaricare periodicamente l’accumulatore di pressione tramite strumento di autodiagnosi
-(t-2-) A non sollevare il veicolo sul ponte a bracci, se prima non lo si è predisposto con lo strumento di autodiagnosi 
+(t-2-) A </p><strong>non</strong><p> sollevare il veicolo sul ponte a bracci, se prima </p><strong>non</strong><p> lo si è predisposto con lo strumento di autodiagnosi 
 (s-0-) Tutte le precedenti sono corrette
 
 (-domanda-singola-)
@@ -593,7 +593,7 @@ DISCRETO (!!) Frequentare un corso che approfondisca gli argomenti su cui si han
 OTTIMO (!!) Frequentare corsi specifici sugli impianti frenanti avanzati. Veicoli Ibridi ed elettrici
 
 (-CC-)
-Nota: abbiamo tolto dal sito i corsi consigliati per questi argomenti. Forse si potrebbe valutare di fare un corso unico per raggruppare questi argomenti, da erogare agli operatori coinvolti in questo settore. (!-!) #
+Corso G8 ABS ed ESP (organizzato su rischiesta)  (!-!) https://www.texa.it
 (-corso-)
 (-titolo-)
 7. Conoscenza del funzionamento dei cambi automatici (!!!) corso 7
@@ -643,7 +643,7 @@ coppiacambi.jpg
 (s-0-) Ingranaggi delle marce coinvolte
 (s-0-) Frizione dell’albero primario 1
 (t-3-) Frizione dell’albero primario 2
-(s-3-) Pompa dell'olio
+(s-2-) Pompa dell'olio
 (s-0-) Nessuna delle precedenti
 
 (-domanda-singola-)
@@ -715,7 +715,7 @@ S8C: DIAGNOSI E MANUTENZIONE DEL CAMBIO A DOPPIA FRIZIONE 0B5 S-TRONIC (!-!) htt
 (s-1-) CO
 (t-1-) NOx
 (s-1-) HC
-(s-1-) Tutte i precedenti
+(s-1-) Tutti i precedenti
 
 (-domanda-singola-)
 4. Quale fra i seguenti catalizzatori è destinato al trattamento degli NOx?
@@ -750,7 +750,7 @@ S8C: DIAGNOSI E MANUTENZIONE DEL CAMBIO A DOPPIA FRIZIONE 0B5 S-TRONIC (!-!) htt
 (s-1-) Un filtro antiparticolato in buono stato 
 (s-0-) Un filtro antiparticolato parzialmente ostruito
 (t-2-) Un filtro antiparticolato quasi completamente ostruito 
-(s-1-) Il valore misurato al minimo non è indicativo 
+(s-1-) Il valore misurato al minimo </p><strong>non</strong><p> è indicativo 
 
 (-domanda-singola-)
 9. Quale sistema di abbattimento del particolato adotta un liquido (cerina) additivato al gasolio?
@@ -760,7 +760,7 @@ S8C: DIAGNOSI E MANUTENZIONE DEL CAMBIO A DOPPIA FRIZIONE 0B5 S-TRONIC (!-!) htt
 (s-0-) DeNOx
 
 (-domanda-singola-)
-10. Un liquido AdBlue con una concentrazione di ammoniaca del 32,5% è:
+10. Un liquido AdBlue con una concentrazione di urea del 32,5% è:
 (t-2-) Corretto
 (s-1-) Troppo diluito
 (s-1-) Troppo concentrato
@@ -779,6 +779,7 @@ OTTIMO (!!) Frequentare corsi specifici di approfondimento.
 (-CC-)
 G13C: EURO 6 E NUOVE TECNOLOGIE PER L'ABBATTIMENTO DELLE EMISSIONI (!-!) https://www.texa.it/formazione/corsi/diagnosi-emissioni/g13c-euro-6-e-nuove-tecnologie-per-labbattimento-delle-emissioni/
 S10C: DIAGNOSI E MANUTENZIONE DELLE VETTURE CON AdBlue (!-!) https://www.texa.it/formazione/corsi/diagnosi-emissioni/s10c-diagnosi-e-manutenzione-delle-vetture-con-adblue/
+A1C: ANALISI DEI PARAMETRI DI RIFERIMENTO DEI SISTEMI DI POST TRATTAMENTO NEI MOTORI DIESEL (!-!) https://www.texa.it/formazione/corsi/diagnosi-emissioni/a1c-analisi-dei-parametri-di-riferimento-dei-sistemi-di-post-trattamento-nei-motori-diesel/
 (-corso-)
 
 (-titolo-)
@@ -789,7 +790,7 @@ S10C: DIAGNOSI E MANUTENZIONE DELLE VETTURE CON AdBlue (!-!) https://www.texa.it
 (s-1-) Evaporatore – Filtro – Condensatore – Valvola di Espansione
 (s-1-) Filtro – Valvola di Espansione – Evaporatore – Condensatore 
 (t-1-) Condensatore – Filtro – Valvola di Espansione – Evaporatore
-(s-1-) Non si può rispondere in quanto dipende dalla tipologia dell’impianto
+(s-1-) </p><strong>non</strong><p> si può rispondere in quanto dipende dalla tipologia dell’impianto
 
 (-domanda-singola-)
 2. Il fluido refrigerante, all’interno dell’impianto di climatizzazione, si trova in quali condizioni?
@@ -820,7 +821,7 @@ S10C: DIAGNOSI E MANUTENZIONE DELLE VETTURE CON AdBlue (!-!) https://www.texa.it
 (s-1-) Dipende dall’impianto, a volte è sulla bassa, altre sulla alta pressione
 
 (-domanda-singola-)
-6. Quale fra i seguenti gas refrigeranti non è utilizzato negli impianti di refrigerazione degli autoveicoli?
+6. Quale fra i seguenti gas refrigeranti </p><strong>non</strong><p> è utilizzato negli impianti di refrigerazione degli autoveicoli?
 (s-1-) R134 
 (s-0-) R744 (CO2)
 (s-1-) R1234YF
@@ -829,9 +830,9 @@ S10C: DIAGNOSI E MANUTENZIONE DELLE VETTURE CON AdBlue (!-!) https://www.texa.it
 
 (-domanda-singola-)
 7. Quale caratteristica rende diversi gli oli POE da quelli PAG?
-(s-1-) L’olio POE non è adatto a compressori meccanici 
+(s-1-) L’olio POE </p><strong>non</strong><p> è adatto a compressori meccanici 
 (s-0-) L’olio POE è igroscopico, assorbe l’umidità
-(s-0-) L’olio POE ed il PAG non possono essere miscelati
+(s-0-) L’olio POE ed il PAG </p><strong>non</strong><p> possono essere miscelati
 (t-2-) L’olio POE è adatto a compressori elettrici mentre il PAG no 
 
 (-domanda-singola-)
@@ -876,9 +877,9 @@ QUALIFICA ABILITA CLIMA - REGOLAMENTO 307/2008 (!-!) https://www.texa.it/formazi
 10. Manutenzione e rendicontazione: Tagliandi elettronici, normative RMI, Regolamenti e obblighi di legge. (!!!) corso 10
 
 (-domanda-singola-)
-1. Possono essere installati dei ricambi non originali nelle manutenzioni di un veicolo in garanzia?
+1. Possono essere installati dei ricambi </p><strong>non</strong><p> originali nelle manutenzioni di un veicolo in garanzia?
 (t-2-) Si possono installare, devono essere certificati come “equivalenti”, però il cliente ne deve essere informato anticipatamente
-(s-1-) Non si possono installare perché durante la garanzia devono essere usati solo ricambi ufficiali
+(s-1-) </p><strong>non</strong><p> si possono installare perché durante la garanzia devono essere usati solo ricambi ufficiali
 (s-0-) Si, possono installare senza nessuna limitazione
 (s-1-) Sì, se sono acquistati da un concessionario
 
@@ -890,8 +891,8 @@ QUALIFICA ABILITA CLIMA - REGOLAMENTO 307/2008 (!-!) https://www.texa.it/formazi
 
 (-domanda-singola-)
 3. Se il cliente si presenta in officina con i ricambi per fare la manutenzione (filtri, olio, …) e chiede di fare il lavoro:
-(s-1-) Non è consentita questa pratica, i ricambi devono essere acquistati obbligatoriamente dall’autoriparatore 
-(s-0-) L’autoriparatore che acconsente al lavoro richiesto NON è tenuto di riconoscere la garanzia sui ricambi e sulla manodopera fornita
+(s-1-) </p><strong>non</strong><p> è consentita questa pratica, i ricambi devono essere acquistati obbligatoriamente dall’autoriparatore 
+(s-0-) L’autoriparatore che acconsente al lavoro richiesto </p><strong>non</strong><p> è tenuto di riconoscere la garanzia sui ricambi e sulla manodopera fornita
 (t-1-) L’autoriparatore che acconsente al lavoro richiesto è tenuto a riconoscere la garanzia sulla manodopera fornita, però deve rispondere anche sulla funzionalità e la sicurezza del sistema una volta installato 
 (s-0-) L’autoriparatore che acconsente al lavoro è tenuto a riconoscere la garanzia di manodopera e ricambi, però per un tempo limitato a 6 mesi
 
@@ -920,7 +921,7 @@ QUALIFICA ABILITA CLIMA - REGOLAMENTO 307/2008 (!-!) https://www.texa.it/formazi
 7. Quali sono i requisiti per eseguire una “Diagnosi autenticata”?
 (s-0-) Che lo strumento di autodiagnosi sia connesso ad internet
 (s-0-) Che l’operatore che utilizza la diagnosi sia identificato dal costruttore
-(s-0-) Che lo strumento di autodiagnosi sia aggiornato con software originali (non “craccati”)
+(s-0-) Che lo strumento di autodiagnosi sia aggiornato con software originali (</p><strong>non</strong><p> “craccati”)
 (t-2-) Tutte le precedenti
 
 (-domanda-singola-)
