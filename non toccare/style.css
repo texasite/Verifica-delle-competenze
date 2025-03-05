@@ -204,3 +204,43 @@ h1 {
 .mag h1 {
     color: white;
 }
+
+table {
+    border-collapse: collapse;
+    border: 3px solid #052f58; /* Aggiungi un bordo alla tabella stessa */
+}
+
+th {
+    
+    padding: 3px;
+    color: white;
+    background-color: #07519b;
+    border: 3px solid #052f58;
+}
+
+td {
+    padding: 5px;
+    color: white;
+    background-color: #2476c9;
+    border: 3px solid #052f58;
+    transition: 0.3s;
+}
+
+td:hover{
+    padding: 7px;
+    color: white;
+    background-color: #74b7fa;
+    border: 3px solid #052f58;
+    transition: 0.3s;
+
+}
+
+td a {
+    color: white;
+    display: block; 
+    text-decoration: none;
+}
+
+table h1 {
+    color: white;
+}

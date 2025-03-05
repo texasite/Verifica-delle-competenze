@@ -233,7 +233,8 @@ fetch("testo/corsi.txt")  // Assicurati che il percorso sia corretto
                 }
                 
             } else if (filecont[corsoCont].split("\n")[b].includes("(-CC-)")){
-                output += '<h1>Corsi consigliati</h1>';
+                output += '<table>'+
+                          '<tr><th><h1>Corsi consigliati</h1></th></tr>';
                     
                     for (let c = b+1; c < filecont[corsoCont].split("\n").length; c++){
                         if (filecont[corsoCont].split("\n")[c].includes("(-domanda-singola-)") || filecont[corsoCont].split("\n")[c].includes("(-corso-)") || filecont[corsoCont].split("\n")[c].includes("(-valutazione-)"))
@@ -247,7 +248,7 @@ fetch("testo/corsi.txt")  // Assicurati che il percorso sia corretto
                             
                         } else {
                             if(filecont[corsoCont].split("\n")[c].split(" ").length > 1){
-                                output+='<a target="_blank" href="'+ filecont[corsoCont].split('\n')[c].split("(!-!)")[1].replace(" ", "") +'">'+ filecont[corsoCont].split('\n')[c].split("(!-!)")[0]+'</a><br>';
+                                output+='<tr><a target="_blank" href="'+ filecont[corsoCont].split('\n')[c].split("(!-!)")[1].replace(" ", "") +'"><td>'+ filecont[corsoCont].split('\n')[c].split("(!-!)")[0]+'</td></a></tr>';
 
                             }
                             
