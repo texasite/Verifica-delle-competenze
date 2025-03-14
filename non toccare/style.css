@@ -200,6 +200,7 @@ h1 {
     color: white;
 }
 .min {
+    padding: 1px;
     background-color: rgba(255, 0, 0, 0.849);
     border: 2px solid rgb(187, 11, 11);
 }

@@ -103,7 +103,7 @@ fetch("testo/corsi.txt")  // Assicurati che il percorso sia corretto
     btnFine.addEventListener('click', function() {
         btnFine.innerText = "Torna alla home";
         if (visited){
-            window.location.href = "../index.html";
+            window.location.href = "home.html";
         }
         visited = true;
         output = "";
